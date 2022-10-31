@@ -1,0 +1,4 @@
+tensorflow==2.5.0
+scipy==1.5.4
+requests==2.27.1
+numpy==1.19.5
